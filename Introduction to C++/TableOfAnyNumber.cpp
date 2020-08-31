@@ -1,3 +1,6 @@
+/* 
+This code calculates the Table of any number you enter.
+*/
 #include<iostream>
 #include<conio.h>
 using namespace std;
