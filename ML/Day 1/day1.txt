@@ -1,0 +1,16 @@
+extract all rows and columsn
+
+rows - 0-10
+column 0-2
+
+-------------
+row 12 to last row, 
+column 1 to last column
+--------------------------
+apply data prepro
+mean
+median 
+mode
+
+assign levels
+------------
